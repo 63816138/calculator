@@ -1,0 +1,55 @@
+body {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1468%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%26quot%3b%23SvgjsLinearGradient1469%26quot%3b)'%3e%3c/rect%3e%3cpath d='M417.167%2c212.748C440.596%2c213.563%2c464.519%2c205.309%2c476.784%2c185.331C489.565%2c164.512%2c489.981%2c136.974%2c475.974%2c116.96C463.445%2c99.058%2c439.018%2c100.189%2c417.167%2c100.146C395.199%2c100.103%2c369.931%2c98.308%2c357.957%2c116.726C345.298%2c136.197%2c352.139%2c161.649%2c364.329%2c181.417C375.848%2c200.097%2c395.234%2c211.985%2c417.167%2c212.748' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1105.412242657091 220.46109327561373L1119.912290816228 102.36767784528647 1001.8188753859007 87.8676296861494 987.3188272267637 205.96104511647667z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M328.2716528989769 597.7637520122081L483.5098927309473 559.0585117100122 444.8046524287514 403.8202718780418 289.56641259678105 442.5255121802377z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1111.538957851131 140.5170760084161L1205.5658124739468 167.47884270892277 1138.5007245516376 46.49022138560039z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M121.27158346512361 333.6511736055449L129.06467903215022 270.18150356136726 29.963626182370476 290.2266952329162z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M149.73490023936546 418.69585505246306L70.04763403232275 466.57679515424076 181.71267728851066 562.167224413916z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M968.5748496014526 245.40758364856194L886.57324928234 278.538380737936 977.2702450759574 384.9753826719178z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M570.8972710001719 167.03858707087835L723.9122017481814 67.87672692724522 583.1784040567219-6.952760658842266z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M414.7604733992416 389.6219012666041L567.8782535835207 445.51752874275917 545.5881188408415 304.7831567488574z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1450.0084604576853 125.92681990917578L1507.2176866451841 72.57835342307112 1398.5903738222778 13.438747384874972z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M178.02398548326133 446.2587506018572L249.1811978896851 388.63677614846955 127.16963000639183 310.71194476552773z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1010.5515374347805 485.2778035304307L1130.6883073052156 443.911396292614 1089.321900067399 323.77462642217876 969.1851301969638 365.14103365999546z' fill='rgba(227%2c 255%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1468'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='84.72%25' y1='-39.29%25' x2='15.28%25' y2='139.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1469'%3e%3cstop stop-color='rgba(14%2c 42%2c 71%2c 1)' offset='0.24'%3e%3c/stop%3e%3cstop stop-color='rgba(32%2c 142%2c 71%2c 1)' offset='0.88'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.calculator {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    opacity:0.9;
+}
+
+.display {
+    background-color: #ffffff;
+    color: #0e0c0c;
+    font-size: 2em;
+    padding: 20px;
+    text-align: right;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    overflow: hidden;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.btn {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.btn:active {
+    background-color: #ddd;
+}
+
+.equal {
+    background-color: #4caf50;
+    color: white;
+    grid-column: span 4;
+}
+
+.equal:active {
+    background-color: #45a049;
+}
